@@ -2,6 +2,7 @@ import Snippet from "./components/booknotes/Snippet";
 import Header from "./components/Header";
 import { bookNotes } from "./data/notes.js";
 import shortid from "shortid";
+import "./App.css";
 
 function App() {
   return (

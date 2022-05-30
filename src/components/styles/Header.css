@@ -1,0 +1,16 @@
+h1 {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1em;
+  font-size: 2em;
+  color: #fff;
+  color: #080;
+}
+
+.headerText {
+  font-family: Georgia, serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #fff;
+}
